@@ -1,1 +1,1 @@
-InfiniEdge AI aspires to be the premier open source framework for ubiquitous AI inference at the edge, shaping a future where intelligent devices are an integral part of our daily lives. We are committed to enabling real-time decision-making, optimizing resource utilization, and ensuring rigorous data privacy.
+
